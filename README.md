@@ -36,3 +36,7 @@ Although promising results have been achieved in the areas of traffic-sign detec
 （访问码：pbp6）
 
 直链：https://cloud.tianli0.top/d/cn189/yolo/tt100k_marks.zip https://cloud.tianli0.top/d/cn189/yolo/tt100k_yolo.zip
+
+# 注意事项
+
+使用时注意核查yml文件，确保yml目录结构正确
