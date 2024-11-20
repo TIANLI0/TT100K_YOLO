@@ -31,6 +31,8 @@ Although promising results have been achieved in the areas of traffic-sign detec
 
 # Download
 
-https://cloud.189.cn/t/UZ73yeBRNRju
+天翼云： https://cloud.189.cn/t/UZ73yeBRNRju
 
 （访问码：pbp6）
+
+直链：https://cloud.tianli0.top/d/cn189/yolo/tt100k_marks.zip https://cloud.tianli0.top/d/cn189/yolo/tt100k_yolo.zip
